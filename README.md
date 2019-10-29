@@ -1,3 +1,3 @@
 # netcore-async
 
-netcore demo project to explore await/async capabilities
+netcore demo projects to explore await/async capabilities
